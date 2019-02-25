@@ -1,0 +1,26 @@
+/* Add any css you want to use for you website here */
+#student_status{
+	display: none;
+}
+
+#undergrad_select{
+	display: none;
+}
+
+#grad_select{
+	display: none;
+}
+#player_selector a
+{
+  color: #000;
+  display: block;
+  height: 28px;
+  padding-left: 20px;
+  text-decoration: none;
+}
+
+#player_selector a:hover
+{
+  background-color: #F0FFFF;
+}
+
